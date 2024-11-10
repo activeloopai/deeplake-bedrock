@@ -1,0 +1,2 @@
+deeplake==3.9.27
+openai
